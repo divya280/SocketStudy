@@ -1,5 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
+## Name : V DIVYASHREE
+## Reg No : 212223230051
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
